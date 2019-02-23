@@ -1,0 +1,45 @@
+﻿<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Tech Academy Car Insurance Quote Generator</h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Quote", "Home", FormMethod.Post))
+            {
+            <div class="container no-gutters">
+                <div class="form-group">
+                    <input name="FirstName" type="text" class="form-control col-auto" placeholder="First Name" />
+                </div>
+                <div class="form-group">
+                    <input name="LastName" type="text" class="form-control col-auto" placeholder="Last Name" />
+                </div>
+                <div class="form-group">
+                    <input name="EmailAddress" type="email" class="form-control col-auto" placeholder="Email Address" />
+                </div>
+                <div class="form-group">
+                    <input name="DateOfBirth" type="date" class="form-control col-auto" placeholder="Date of Birth" />
+                </div>
+                <div class="form-group">
+                    <input name="CarYear" type="number"  min="1980" max="2019" class="date-own form-control col-auto" placeholder="Car Year" />
+                </div>
+                <div class="form-group">
+                    <input name="CarMake" type="text" class="form-control col-auto" placeholder="Car Make" />
+                </div>
+                <div class="form-group">
+                    <input name="CarModel" type="text" class="form-control col-auto" placeholder="Car Model" />
+                </div>
+                <div class="form-group">
+                    <input name="Dui" type="text" class="form-control col-auto" placeholder="Have you ever had a DUI?" />
+                </div>
+                <div class="form-group">
+                    <input name="SpeedingTickets" type="number" min="0" class="form-control col-auto" placeholder="How many Speeding Tickets do you have?" />
+                </div>
+                <div class="form-group">
+                    <input name="Coverage" type="text" class="form-control col-auto" placeholder="Full Coverage or Liability" />
+                </div>
+                <button type="submit" class="btn btn-block btn-primary">Quote</button>
+            </div>
+            }
+        </div>
+    </div>
+</div>

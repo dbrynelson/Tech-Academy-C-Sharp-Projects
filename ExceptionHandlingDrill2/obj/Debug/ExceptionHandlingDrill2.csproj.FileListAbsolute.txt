@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\techacademy-projects\ExceptionHandlingDrill2\ExceptionHandlingDrill2\bin\Debug\ExceptionHandlingDrill2.exe.config
+C:\Users\Student\Desktop\techacademy-projects\ExceptionHandlingDrill2\ExceptionHandlingDrill2\bin\Debug\ExceptionHandlingDrill2.exe
+C:\Users\Student\Desktop\techacademy-projects\ExceptionHandlingDrill2\ExceptionHandlingDrill2\bin\Debug\ExceptionHandlingDrill2.pdb
+C:\Users\Student\Desktop\techacademy-projects\ExceptionHandlingDrill2\ExceptionHandlingDrill2\obj\Debug\ExceptionHandlingDrill2.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\techacademy-projects\ExceptionHandlingDrill2\ExceptionHandlingDrill2\obj\Debug\ExceptionHandlingDrill2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\techacademy-projects\ExceptionHandlingDrill2\ExceptionHandlingDrill2\obj\Debug\ExceptionHandlingDrill2.exe
+C:\Users\Student\Desktop\techacademy-projects\ExceptionHandlingDrill2\ExceptionHandlingDrill2\obj\Debug\ExceptionHandlingDrill2.pdb
