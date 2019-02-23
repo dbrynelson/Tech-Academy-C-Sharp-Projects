@@ -5,3 +5,6 @@
 *.csproj linguist-vendored
 *.config linguist-vendored
 *.js linguist-vendored
+*.psd1 linguist-vendored
+*.psm1 linguist-vendored
+*.ps1 linguist-vendored
